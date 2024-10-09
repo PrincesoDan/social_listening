@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>T13 - Lo Último</title>
+    <link>https://www.t13.cl/lo-ultimo</link>
+    <description>Feed RSS generado automáticamente desde la sección Lo Último de T13</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 19 Sep 2024 16:39:09 +0000</lastBuildDate>
+    <item>
+      <title>Tohá por mensaje de arzobispo Chomali en Te Deum: "Como Gobierno nos interpreta plenamente"</title>
+      <link>https://www.t13.cl/noticia/nacional/toha-por-mensaje-arzobispo-chomali-te-deum-como-gobierno-nos-interpreta-plename-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 07:59:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Fiestas Patrias 2024: 40 muertos y más de 900 accidentes de tránsito en lo que va de celebraciones</title>
+      <link>https://www.t13.cl/noticia/nacional/fiestas-patrias-2024-40-muertos-mas-900-accidentes-transito-lo-va-celebraciones-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 09:19:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Sigue EN VIVO la transmisión de la Parada Militar 2024</title>
+      <link>https://www.t13.cl/noticia/nacional/sigue-vivo-parada-militar-2024-desfilaran-8-mil-funcionarios-las-ffaa-carabiner-18-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 11:00:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Suspenden Fiesta de la Chilenidad de Cañete debido a fuertes vientos</title>
+      <link>https://www.t13.cl/noticia/nacional/suspenden-fiesta-chilenidad-canete-debido-fuertes-vientos-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 11:10:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Parada Militar 2024: La historia detrás del tradicional "Ford Galaxie", el auto que transporta a los presidentes</title>
+      <link>https://www.t13.cl/noticia/nacional/cuenta-publica-historia-detras-del-tradicional-ford-galaxie-auto-transporta-pre-1-6-2024-0</link>
+      <pubDate>Thu, 19 Sep 2024 11:29:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Menor de 17 años es baleado en la cabeza en fonda en Los Ángeles: Está grave con riesgo vital</title>
+      <link>https://www.t13.cl/noticia/concepcion/menor-17-anos-baleado-cabeza-fonda-angeles-esta-grave-riesgo-vital-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 11:51:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Hallan cuerpo de hombre maniatado en Estación Central: Tenía heridas cortopunzantes a nivel cervical</title>
+      <link>https://www.t13.cl/noticia/nacional/hallan-cuerpo-hombre-maniatado-estacion-central-tenia-heridas-cortopunzantes-ni-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 12:06:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>General Iturriaga y despliegue del Ejército en calles: “Si se resuelve, tenemos que estar dispuestos a hacerlo”</title>
+      <link>https://www.t13.cl/noticia/politica/general-iturriaga-despliegue-del-ejercito-calles-si-se-resuelve-tenemos-estar-d-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 12:24:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Costa Rica aprueba extraditar a Chile a Maickel Villegas: Sospechoso del secuestro y asesinato de Ronald Ojeda</title>
+      <link>https://www.t13.cl/noticia/nacional/costa-rica-extraditara-chile-sospechoso-del-secuestro-homicidio-ronald-ojeda-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 12:42:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Decretan Alerta Temprana Preventiva en región de Valparaíso por fuertes vientos</title>
+      <link>https://www.t13.cl/noticia/nacional/decretan-alerta-temprana-preventiva-region-valparaiso-por-fuertes-vientos-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 13:08:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Parada Militar: La gesticulación de la intérprete de señas por el paso de aviones que se hizo viral</title>
+      <link>https://www.t13.cl/videos/nacional/parada-militar-gesticulacion-interprete-senas-por-paso-aviones-se-hizo-viral-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 13:30:00 -0300</pubDate>
+    </item>
+    <item>
+      <title>Así fue el esperado paso del Grupo Canino de Carabineros por la Parada Militar 2024</title>
+      <link>https://www.t13.cl/videos/nacional/asi-fue-esperado-paso-del-grupo-canino-carabineros-por-parada-militar-2024-19-9-2024</link>
+      <pubDate>Thu, 19 Sep 2024 13:37:00 -0300</pubDate>
+    </item>
+  </channel>
+</rss>
