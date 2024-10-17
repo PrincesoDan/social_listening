@@ -1,5 +1,5 @@
 # Vyrus: Social listening
-1. clona del repositorio de github.
+1. Clona del repositorio de github.
 2. Crea un entorno virtual:
 Si ocupas conda puede ser así:
 ´´´conda create --name willem python=3.9´´´
